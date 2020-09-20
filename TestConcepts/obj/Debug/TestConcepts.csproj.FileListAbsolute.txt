@@ -1,0 +1,7 @@
+C:\Users\perez\source\repos\TestConcepts\TestConcepts\bin\Debug\TestConcepts.exe.config
+C:\Users\perez\source\repos\TestConcepts\TestConcepts\bin\Debug\TestConcepts.exe
+C:\Users\perez\source\repos\TestConcepts\TestConcepts\bin\Debug\TestConcepts.pdb
+C:\Users\perez\source\repos\TestConcepts\TestConcepts\obj\Debug\TestConcepts.csprojAssemblyReference.cache
+C:\Users\perez\source\repos\TestConcepts\TestConcepts\obj\Debug\TestConcepts.csproj.CoreCompileInputs.cache
+C:\Users\perez\source\repos\TestConcepts\TestConcepts\obj\Debug\TestConcepts.exe
+C:\Users\perez\source\repos\TestConcepts\TestConcepts\obj\Debug\TestConcepts.pdb
